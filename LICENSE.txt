@@ -1,0 +1,18 @@
+Commonwealth Engine Fixes (CEF)
+Copyright (c) 2026 the author of CEF. All rights reserved.
+
+This source code is published so that people can read, review and audit it, and build it to check it against the released
+files.
+
+You may:
+- Read, review and discuss this code, and quote short parts of it when reporting a problem.
+- Build it on your own PC to check it against the released DLLs.
+
+You may not, without the author's permission:
+- Publish, re-upload or distribute this code, or DLLs built from it, on any site.
+- Publish modified versions of it.
+- Sell it or include it in anything paid.
+
+F4SE and Address Library belong to their authors.
+
+This code is provided as is, with no warranty of any kind.
